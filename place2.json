@@ -1,0 +1,1046 @@
+{
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "Name": "Adams Grove Presbyterian Church",
+        "description": "Adams Grove Presbyterian Church and the adjacent cemetery in Dallas County are, according to ghost hunting groups, reportedly haunted",
+        "gx_media_links": "https://en.wikipedia.org/wiki/File:Adams_Grove_Presbyterian_Church.jpg",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.271944, -87.030556]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boyington Oak",
+        "description": "The Boyington Oak in Mobile is a Southern live oak that reportedly grew from the grave of Charles Boyington in the potter's field just outside the walls of Church Street Graveyard. Boyington was tried and executed for the murder of his friend, Nathaniel Frost, on February 20, 1835. He said a tree would spring from his grave as proof of his innocence.",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.68608, -88.05153]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dr.John R. Drish House",
+        "description": "The Dr. John R. Drish House in Tuscaloosa has a tower that has reportedly been seen on numerous occasions to be on fire, when no fire was actually there. Also, ghostly lights are said to have been seen emanating from the house.",
+        "gx_media_links": "https://en.wikipedia.org/wiki/File:Drish_House_Tuscaloosa_01.jpg",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.19755, -87.56185]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gaineswood ",
+        "description": "Gaineswood in Demopolis is reportedly haunted by the ghost of a former housekeeper from Virginia. She was in charge of running the house for General Whitfield after the death of his wife. Her ghost supposedly plays the piano in the music room.",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.508192, -87.833683]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kenworthy Hall",
+        "description": "Kenworthy Hall near Marion has a fourth-floor tower room that is alleged to be haunted by the ghost of a young woman. She sits in a window awaiting the return of a lover who died during the American Civil War. Edmund King House on the University of Montevallo campus in Shelby County is reported to be the site of spectral lights, the sound of footsteps,and other unexplained noises.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kenworthy_Hall.jpg/250px-Kenworthy_Hall.jpg",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.635278, -87.352222]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edmund King House",
+        "description": "Edmund King House on the University of Montevallo campus in Shelby County is reported to be the site of spectral lights, the sound of footsteps, and other unexplained noises.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/King_House_University_of_Montevallo_Montevallo%2C_AL.JPG/250px-King_House_University_of_Montevallo_Montevallo%2C_AL.JPG",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.105, -86.863056]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pickens County Courthouse",
+        "description": "Pickens County Courthouse in Carrollton is alleged to be haunted by the ghost of a former slave, Henry Wells, who was lynched by a mob after being accused of burning down the second county courthouse. Soon afterward, the ghostly image of a face appeared in an upper window of the new third county courthouse to profess Wells' innocence. Supposedly, every windowpane in the courthouse was broken in a hailstorm one year, except for that pane.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pickens_County_Courthouse_2.jpg/250px-Pickens_County_Courthouse_2.jpg",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.261769, -88.095086]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pratt Hall",
+        "description": "Pratt Hall at Huntingdon College in Montgomery is reportedly haunted by a Red Lady. Huntingdon was originally a Methodist female college and the Red Lady is alleged to be the ghost of a lonely girl who committed suicide. Sturdivant Hall in Selma is purported to be haunted by the ghost of the second owner, John McGee Parkman. Parkman, imprisoned by Reconstruction authorities for alleged embezzlement, died during an escape attempt from Cahaba Prison in 1867.",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.35, -86.285]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sweetwater Mansion",
+        "description": "Sweetwater Mansion in Florence, Alabama was built during 1828. Both Union and Confederate officers stayed there during their respective occupations of the city during the Civil War. Alleged paranormal activity has been investigated by local paranormal groups and a team from the television show Paranormal State.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sweetwater_Mansion_Florence.jpg/250px-Sweetwater_Mansion_Florence.jpg",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.82452, -87.64287]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tombigbee River",
+        "description": "The Tombigbee River near Pennington is reportedly haunted by the ghost ship Eliza Battle. The ship is supposed to return during especially cold, stormy nights to warn of impending disaster.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/White_Bluff_Demopolis.jpg/280px-White_Bluff_Demopolis.jpg",
+        "state": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.136389, -87.944167]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Bird Cage Theatre",
+        "description": "Bird Cage Theatre in Tombstone is reportedly haunted. These reports date back to the 1880s. It was investigated on Ghost Adventures.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BirdcageTheater.jpg/300px-BirdcageTheater.jpg",
+        "state": "Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.711944, -110.065278]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Copper Queen Hotel",
+        "description": "Copper Queen Hotel in Bisbee is reportedly haunted. It was investigated on both Ghost Adventures and Ghost Hunters.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CopperQueen%40Night2016.jpg/220px-CopperQueen%40Night2016.jpg",
+        "state": "Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.4424, -109.9143]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Lee Williams High School football field",
+        "description": "Part of the football field at Lee Williams High School in Kingman lies atop an old Pioneer Cemetery. Women in prairie gowns and men wearing suits from the 19th Century have reportedly been sighted during outdoor graduation ceremonies.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CopperQueen%40Night2016.jpg/220px-CopperQueen%40Night2016.jpg",
+        "state": "Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.191753, -114.059711]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Monte Vista Hotel",
+        "description": "Monte Vista Hotel in Flagstaff is reputed to be haunted. A phantom bellboy is said to knock on the door of room 210 and announce \"Room service.\" John Wayne reported seeing a ghost in his room while staying at the hotel in the early 1950s.",
+        "gx_media_links": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Montevistaoutside.jpg/220px-Montevistaoutside.jpg",
+        "state": "Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.1982, -111.6473]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "The Gurdon Light",
+        "description": "The Gurdon Light is a mysterious floating light above the railroad tracks near Gurdon (Clark County), a few miles away on Highway 67, which was first sighted during the 1930s. A popular legend is that a railroad worker was in an accident in which he was decapitated and now he is holding a lantern going up and down the tracks searching for his missing head. The other legend involves the murder of a foreman for the Missouri-Pacific Railroad. The Gurdon Light was reportedly sighted shortly after his murder near those tracks during 1931. The local legend appeared on NBC's television program Unsolved Mysteries during 1994.",
+        "state": "Arkansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.915278, -93.155278]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Alcatraz Island",
+        "description": "It is home to the abandoned prison, the site of the oldest operating lighthouse on the West Coast of the United States, early military fortifications, and natural features such as rock pools and a seabird colony (mostly western gulls, cormorants, and egrets). According to a 1971 documentary on the history of Alcatraz, the island measures 1,675 feet by 590 feet and is 135 feet at highest point during mean tide.However, the total area of the island is reported to be 22 acres.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alcatraz_Island_as_seen_from_the_East.jpg/300px-Alcatraz_Island_as_seen_from_the_East.jpg",
+        "state": "California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.82667, -122.423333]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "San Juan Capistrano",
+        "description": "San Juan Capistrano is a city in Orange County, California, United States. The current OMB metropolitan designation for San Juan Capistrano and the Orange County Area is \"Santa Ana-Anaheim-Irvine, CA.\" The population was 34,593 at the 2010 census, up from 33,826 at the 2000 census. The city was created around Mission San Juan Capistrano, and many of the homes and strip malls resemble the Spanish architecture that composes the building. It is home to the widest variety of homes in Orange County, including those built prior to 1900, in its central district (some being adobes from the 18th century). San Juan Capistrano formerly hosted a population of cliff swallows that migrate each year from Argentina to the Mission San Juan Capistrano.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Egan_House%2C_San_Juan_Capistrano.jpg/280px-Egan_House%2C_San_Juan_Capistrano.jpg",
+        "state": "California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.499444, -117.661667]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Winchester Mystery House",
+        "description": "Since its construction in 1884, the property and mansion were claimed by many, including Winchester herself, to be haunted by the ghosts of those killed with Winchester rifles. Under Winchester's day-to-day guidance, its \"from-the-ground-up\" construction proceeded around the clock, by some accounts, without interruption, until her death on September 5, 1922, at which time work immediately ceased. Sarah Winchester's biographer, however, claims that Winchester \"routinely dismissed workers for months at a time 'to take such rest as I might'\" and notes that \"this flies in the face of claims by today's Mystery House proprietors that work at the ranch was ceaseless for thirty-eight years.\"",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Winchester_House_910px.jpg/250px-Winchester_House_910px.jpg",
+        "state": "California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.318361, -121.950761]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Pioneer Park",
+        "description": "Pioneer Park in Aspen is reportedly haunted by the ghost of Harriet Webber, wife of its builder, who died of what was ruled to be an accidental strychnine overdose during 1881, four years before it was built.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Henry_Webber_House%2C_Aspen%2C_CO.jpg/250px-Henry_Webber_House%2C_Aspen%2C_CO.jpg",
+        "state": "Colorado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.193056, -106.826667]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Dudleytown",
+        "description": "Dudleytown is an abandoned town founded in the mid-1740s. It lies in the middle of a forested area in Cornwall. The original buildings are gone and only their foundations remain. Videos purport to show restless spirits in the area and hikers have reported seeing orbs in the area.",
+        "state": "Connecticut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.8078, -73.3523]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Union Cemetery",
+        "description": "Union Cemetery in Easton (also Bridgeport), which dates back to the 17th century, is touted as \"one of the most haunted cemeteries in the entire country\" by authors of paranormal books who claim that visitors have photographed orbs, light rods, ectoplasmic mists, and apparitions. A spirit known as the \"White Lady\" has also been reported.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Unioncemetery01.jpg/220px-Unioncemetery01.jpg",
+        "state": "Connecticut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.2727, -73.297]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "The Octagon House",
+        "description": "The Octagon House is purported to be one of the most haunted homes in D.C. Apparitions and the presence of otherworldly forces have reportedly been seen and felt in many places at The Octagon, including on the spiral staircase, the second floor landing, the third floor landing, the third floor bedroom, and the garden area in the rear. Among the eyewitnesses have been members of the public, curators, and other employees hired by the museum . There are many variations of ghost stories that feature the Octagon House in Washington D.C. As one of the oldest buildings in the city, it lends itself nicely as a setting for historical, spooky, and macabre tales. The stories recorded here are merely a presentation of a few of the reported experiences and legends that have evolved over the past 200 years, and should not be taken as historical fact.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/The_Octagon_House_-_Washington%2C_D.C..JPG/220px-The_Octagon_House_-_Washington%2C_D.C..JPG",
+        "state": "Washington, D.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.8963, -77.0415]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Don CeSar Hotel",
+        "description": "Don CeSar Hotel in St. Petersburg Beach, Fla, is allegedly haunted by the ghost of its original owner, Thomas Rowe, who built the Moorish-style \"Pink Palace\" during 1926. The story is that Thomas Rowe was forbidden to marry the love of his life, a singer in the opera Maritana, by her parents. He built the Don CeSar in remembrance of her, and named it after a character in the opera. \"Time is infinite. I wait for you by our fountain\", she wrote to him on her deathbed, and after his own death, it was reported that they were seen to be meeting by the fountain in the hotel lobby , see \"Haunted Love: Tales of Ghostly Soulmates\" for full particulars of this 'historia reconti'.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Don_Cesar.jpg/325px-Don_Cesar.jpg",
+        "state": "Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.708889, -82.7375]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "The Leaf Theater",
+        "description": "The Leaf Theater in Quincy is reportedly haunted by several former movie operators and theater attendees.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Leaf_Theatre.jpg/225px-The_Leaf_Theatre.jpg",
+        "state": "Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.585299, -84.573707]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "South Florida University Library",
+        "description": "The University of South Florida Library in Tampa is reportedly haunted.",
+        "state": "Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.054561, -82.413058]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Ebos Landing",
+        "description": "Ebos Landing (Igbo Landing) in Dunbar Creek, St. Simons Island, Glynn County is allegedly haunted by the souls of Igbo slaves who committed mass suicide by drowning there during 1803 to protest their enslavement.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/AN_OLD_BOAT_ROTS_IN_A_MARSH_ON_ST._SIMON%27S_ISLAND_-_NARA_-_547017.jpg/250px-AN_OLD_BOAT_ROTS_IN_A_MARSH_ON_ST._SIMON%27S_ISLAND_-_NARA_-_547017.jpg",
+        "state": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.187222, -81.387222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Moon River Brewing Company",
+        "description": "Moon River Brewing Company in Savannah is allegedly haunted by angry spirits. It was featured on the TV series Ghost Adventures.",
+        "state": "Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.081111, -81.091111]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "ʻIolani Palace",
+        "description": "ʻIolani Palace is said to be haunted.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iolani_Palace_%2815536110307%29.jpg/250px-Iolani_Palace_%2815536110307%29.jpg",
+        "state": "Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.306667, -157.858889]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Former Chicago Historical Society Building",
+        "description": "Former Chicago Historical Society Building is said to be haunted since its use as a temporary morgue for victims of the Eastland Disaster (1915).",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chicago_Historical_Society%2C_632_North_Dearborn_Street%2C_Chicago_%28Cook_County%2C_Illinois%29.jpg/325px-Chicago_Historical_Society%2C_632_North_Dearborn_Street%2C_Chicago_%28Cook_County%2C_Illinois%29.jpg",
+        "state": "Illinois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41.893589, -87.629958]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Culbertson Mansion State Historic Site",
+        "description": "Culbertson Mansion State Historic Site is located in New Albany, Indiana by the Ohio River. It was the home of William Culbertson, who was once the richest man in Indiana. Built in 1867 at a cost of $120,000, this Second Empire-style mansion has 25-rooms within 20,000 square feet, and was completed in November 1869. It was designed by James T. Banes, a local architect. Features within the three-story edifice include hand-painted ceilings and walls, frescoed ceilings, carved rosewood-grained staircase, marble fireplaces, wallpaper of fabric-quality, and crystal chandeliers. The original tin roof was imported from Scotland. The displays within the mansion feature the Culbertson family and the restoration of the building. The rooms on the tour are the formal parlors, dining rooms, bedrooms, kitchen, and laundry room.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Culbertson_Mansion_front.jpg/250px-Culbertson_Mansion_front.jpg",
+        "state": "Indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.286467, -85.812922]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown Grand Theatre",
+        "description": "Brown Grand Theatre in Concordia has stories of a ghost that haunts the theater.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BrownGrand2007.jpg/250px-BrownGrand2007.jpg",
+        "state": "Kansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.571389, -97.663611]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "X Cave",
+        "description": "X Cave at Carter Caves State Resort Park located in Carter County, Kentucky is said to be haunted by two Cherokee Indian lovers according to the book, 'More Kentucky Ghost Stories' by Michael Paul Henson. When the cave was reopened, the bones of two Indian bodies and silver artifacts were allegedly found, but later lost.",
+        "state": "Kentucky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.373889, -83.122222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "White Hall",
+        "description": "White Hall near Richmond in Madison County, owned by Cassius Marcellus Clay (1810 -1903), is said to be haunted by the ghosts Clay, his former wife, and his son.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/White_Hall_Mansion.jpg/220px-White_Hall_Mansion.jpg",
+        "state": "Kentucky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.832778, -84.352222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Magnolia Plantation",
+        "description": "Magnolia Plantation (Derry, Louisiana) is a former plantation in Natchitoches Parish, Louisiana. The site was declared a National Historic Landmark during 2001. It is presently included in the Cane River Creole National Historical Park.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Magnolia_Plantation%2C_Louisiana_Route_119%2C_Natchitoches_%28Natchitoches_Parish%2C_Louisiana%29.jpg/250px-Magnolia_Plantation%2C_Louisiana_Route_119%2C_Natchitoches_%28Natchitoches_Parish%2C_Louisiana%29.jpg",
+        "state": "Louisiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.832778, -84.352222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Magnolia Plantation",
+        "description": "Magnolia Plantation (Derry, Louisiana) is a former plantation in Natchitoches Parish, Louisiana. The site was declared a National Historic Landmark during 2001. It is presently included in the Cane River Creole National Historical Park.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Magnolia_Plantation%2C_Louisiana_Route_119%2C_Natchitoches_%28Natchitoches_Parish%2C_Louisiana%29.jpg/250px-Magnolia_Plantation%2C_Louisiana_Route_119%2C_Natchitoches_%28Natchitoches_Parish%2C_Louisiana%29.jpg",
+        "state": "Louisiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.549722, -92.940556]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "The USS Salem",
+        "description": "The USS Salem (CA-139) in Quincy, which now serves as a museum ship open to the general public. Though never seeing combat, the ship has seen its fair share of life and death, notably after the 1953 Ionian earthquake serving as a hospital ship.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/USS_Salem_%28CA-139%29_underway_in_May_1949.jpg/300px-USS_Salem_%28CA-139%29_underway_in_May_1949.jpg",
+        "state": "Massachussetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.244167, -70.97]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Big Bay Point Light",
+        "description": "Big Bay Point Light is reputedly haunted by the red-haired ghost of its first keeper, Will Prior.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bigbaypoint.jpg/220px-Bigbaypoint.jpg",
+        "state": "Michigan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.840278, -87.681944]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Town of Avilla",
+        "description": "Town of Avilla on historic Route 66 is said to have large numbers of Shadow Folk throughout village and also haunted by a Revenant Civil War-era bushwhacker nicknamed \"Rotten Johnny Reb\", from a gruesome historical event now known as the \"Legend of the Avilla Death Tree\".",
+        "state": "Missouri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.193889, -94.128889]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Vaile Mansion",
+        "description": "Vaile Mansion in Independence, Missouri is said to be haunted.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vaile_Mansion%2C_Independence%2C_Missouri_LCCN2011631466.jpg/250px-Vaile_Mansion%2C_Independence%2C_Missouri_LCCN2011631466.jpg",
+        "state": "Missouri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.108056, -94.417222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Lemp Mansion",
+        "description": "Lemp Mansion in St. Louis, Missouri is said to be haunted.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lemp_Mansion_2012.jpg/240px-Lemp_Mansion_2012.jpg",
+        "state": "Missouri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.5932, -90.216]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Bannack",
+        "description": "Bannack, a ghost town, was founded in 1862 and named after the Bannock Indian tribe. Several claims of hauntings have been made there, including the apparition of a woman in a blue gown named Dorothy who drowned in Grasshopper Creek. A gang of outlaws were also executed in the town and their ghosts are said to haunt the area. There were several epidemics of illnesses there as well, and a reported 8 to 14 infants died in the town.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Npnht-bannack-state-park-montana-05222012-rogermpeterson-010_%287166450629%29.jpg/300px-Npnht-bannack-state-park-montana-05222012-rogermpeterson-010_%287166450629%29.jpg",
+        "state": "Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.161111, -112.995556]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Carroll College",
+        "description": "Carroll College, in Helena, supposedly has a ghost in the men's restroom in St. Charles Hall, where a drunken student died of a cerebral hemorrhage after falling and smashing his head against a sink in the middle of the night.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Carroll_College_Helena%2C_Montana.jpg/330px-Carroll_College_Helena%2C_Montana.jpg",
+        "state": "Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.600867, -112.039153]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "The Copper King Mansion",
+        "description": "The Copper King Mansion in Butte is said to be haunted by its original owner, Senator William A. Clark. The mansion also served as a Catholic convent during the early 1900s.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Copper_King_Mansion_%28Butte%29_2002-05.jpg/250px-Copper_King_Mansion_%28Butte%29_2002-05.jpg",
+        "state": "Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.014444, -112.539167]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Dude Rancher Lodge",
+        "description": "The Dude Rancher Lodge, Billings, is said to be haunted by one of its original owners, and also by a long-time cook.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dude_Rancher_Lodge_Exterior_01.jpg/240px-Dude_Rancher_Lodge_Exterior_01.jpg",
+        "state": "Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.7867, -108.5372]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Garnet town",
+        "description": "Garnet, a ghost town in the Garnet Mountain Range about 40 miles outside of Missoula, is said to be haunted by several ghosts, including gold miners and a woman executed for murder there. People have often heard voices and loud music when nobody is there.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Garnet-mt-17.jpg/200px-Garnet-mt-17.jpg",
+        "state": "Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.825278, -113.338889]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Virginia City",
+        "description": "Virginia City, a ghost town-turned-tourist-attraction, is said to be haunted. The saloon and theater are two areas of reported ghost sightings. The town had a violent past and was home to many outlaws. Calamity Jane lived in the town as a child.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Virginia_City%2C_Montana.jpg/250px-Virginia_City%2C_Montana.jpg",
+        "state": "Montana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.294167, -111.941111]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Nevada Governor's Mansion",
+        "description": "The Nevada Governor's Mansion in Carson City was first occupied by the family of Governor Denver S. Dickerson during July 1909. Guests and staff have reported seeing a woman and child on the premises, thought to be Dickerson's wife Una and daughter June, the only child to have been born in the residence.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nevada_Govenors_Mansion.JPG/250px-Nevada_Govenors_Mansion.JPG",
+        "state": "Nevada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.1675, -119.773056]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Burlington County Prison",
+        "description": "Burlington County Prison in Mount Holly is reportedly haunted.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burlington_County_Prison%2C_128_High_Street%2C_Mount_Holly_%28Burlington_County%2C_New_Jersey%29.jpg/250px-Burlington_County_Prison%2C_128_High_Street%2C_Mount_Holly_%28Burlington_County%2C_New_Jersey%29.jpg",
+          "state": "New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.9965, -74.789731]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Cape May",
+        "description": "Cape May is one of the oldest towns in America, established during 1620. It is also said to be one of the most haunted cities in the country, with many haunted 19th century style house bed & breakfasts, including Congress Hall, the Emlen Physick Estate, Peter Shields Inn, and Southern Mansion (featured on Ghost Hunters). However, the town's best known haunt is Higbee Beach, famous for its quartz \"Cape May diamonds\", said to be haunted by a phantom black dog, or \"hell hound\", that is said to be cursed by Native Americans.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cape_May_Beach_Ave_from_the_sea_3.JPG/250px-Cape_May_Beach_Ave_from_the_sea_3.JPG",
+        "state": "New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.940782, -74.903198]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Essex County Hospital Center",
+        "description": "The Essex County Hospital Center in Verona is believed to be haunted by full-body apparitions of nurses and patients.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Overbrook_Station.JPG/220px-Overbrook_Station.JPG",
+        "state": "New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.851889, -74.243758]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Leeds Point",
+        "description": "Leeds Point is the birthplace of the \"Leeds Devil\", better known as the Jersey Devil. The Pine Barrens (New Jersey) gave fame to the legend of the Jersey Devil, said to have been birthed by a local woman named Mrs. Leeds during 1735. It was her 13th child and she didn't want any more, so she cursed the child by saying, \"May it be the devil!\" Another version tells of Mother Leeds giving birth to a hideous horned monster that attacked her and her midwife, sprouted bat wings, and flew out through the chimney, disappearing into the Pine Barrens, which is where most of the alleged sightings have occurred.",
+        "state": "New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.491944, -74.429167]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Cherry Hill Estate",
+        "description": "Cherry Hill Estate, in southern Albany is a late 18th-century farm manor house that was the site of an 1827 murder that resulted in Albany's last public hanging after a controversial trial. An unidentified ghost has allegedly been seen on the property.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cherry_Hill_Albany.jpg/250px-Cherry_Hill_Albany.jpg",
+        "state": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.634722, -73.763889]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "New York State Capitol building",
+        "description": "New York State Capitol building in Albany is said to be haunted by the ghosts of a night watchman who died in a 1911 fire, artist William Morris Hunt, and others.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NYSCapitolPanorama.jpg/240px-NYSCapitolPanorama.jpg",
+        "state": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.652553, -73.757323]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Attmore-Oliver House",
+        "description": "The Attmore-Oliver House in New Bern has allegedly been the scene of some poltergeist-like activity stemming possibly from either deaths in the house during a smallpox epidemic or the spirit of the last private owner.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Attmore-Oliver_House.JPG/250px-Attmore-Oliver_House.JPG",
+        "state": "North Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.108333, -77.041944]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Brown Mountain",
+        "description": "Brown Mountain in Burke and Caldwell Counties is reputed to have ghostly orbs of light radiating from the mountain. According to local Cherokee legend, the \"Brown Mountain Lights\" date back as far as 1200. This was the year of a great battle, and they believed the lights to be the spirits of Indian maidens who still search for lost loved ones. Also, there has been speculation of extraterrestrial activity. Wiseman's View on Linville Mountain is the best vantage point for viewing the lights. This lookout was used by German engineer, William de Brahm during 1771 while studying the phenomenon. He attributed the lights to nitrous gases emitting from the mountain and combusting upon collision, but his theories were later disproven.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Brown_Mountain%2C_North_Carolina_viewed_from_Beacon_Heights%2C_October_2016.jpg/280px-Brown_Mountain%2C_North_Carolina_viewed_from_Beacon_Heights%2C_October_2016.jpg",
+        "state": "North Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.915833, -81.745833]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Carolina Theatre",
+        "description": "The Carolina Theatre in Greensboro was set ablaze on July 1, 1981, by a woman who was assumed mentally disturbed. Melba Frey went up to the upper balcony and started the fire, which burned the entire balcony and lobby. Her body was found in the stairway by firefighters, and she is now believed to haunt the area in which she died, flipping the folding seats up and down.",
+        "gx_media_links":"https://en.wikipedia.org/wiki/File:Carolina_Theatre_at_night.jpg",
+        "state": "North Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.99813, -78.90174]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Fayetteville",
+        "description": "Fayetteville allegedly hosts ghosts such as \"The Lady in Black\" who haunts the Sandford House, formerly known as the Slocumb House. Her apparition first appeared in the late 19th century and has been sighted by members of The Woman's Club of Fayetteville.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Iron_Mike.JPG/250px-Iron_Mike.JPG",
+        "state": "North Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.0525, -78.878056]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Harvey Mansion",
+        "description": "The Harvey Mansion Historic Inn and Restaurant in New Bern has claims of an older woman in 18th-century dress haunting the second and third floors.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Harvey_Mansion_ca._1798.jpg/250px-Harvey_Mansion_ca._1798.jpg",
+        "state": "North Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.104444, -77.038056]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Tar River",
+        "description": "The Tar River, near Tarboro in Edgecombe County, is associated with a legend of a banshee. The legend speaks of a Patriot miller who was killed by a small group of British soldiers during the American Revolution. Before they drowned him in the river, he warned the soldiers that if he were killed, they would be haunted by a banshee. After his death, she appeared and caused the deaths of the soldiers and supposedly still haunts the river.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pamlicorivermap.png/300px-Pamlicorivermap.png",
+        "state": "North Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.312778, -75.937222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Liberty Memorial Building",
+        "description": "The Liberty Memorial Building in Bismarck, according to former employees is said to be haunted by a ghostly presence nicknamed the \"Stack Monster\".",
+        "state": "North Dakota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.819167, -100.781389]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Saint Anne's Guest Home",
+        "description": "Saint Anne's Guest Home, a Catholic health care facility in Grand Forks has a reputation for being haunted by the ghost of Sister Mary Murphy, who reportedly committed suicide by throwing herself from the bell tower in 1978.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/St._Michael%27s_Hospital_and_Nurses%27_Residence.jpg/220px-St._Michael%27s_Hospital_and_Nurses%27_Residence.jpg",
+        "state": "North Dakota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.9249, -97.0502]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Arnold's Bar and Grill",
+        "description": "Arnold's Bar and Grill, the oldest continuously-operated bar in Cincinnati, is rumored to be haunted.",
+        "state": "Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.10514, -84.51011]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Cincinnati Music Hall",
+        "description": "Cincinnati Music Hall is a theater that was built over a potter's field. Reports of spirits on the property date back to 1876. During 1988, during the installation of an elevator shaft, bones of adults and children were exhumed from under the hall.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cincinnati-Music-Hall.jpg/250px-Cincinnati-Music-Hall.jpg",
+        "state": "Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.109444, -84.518889]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Emmitt House",
+        "description": "Emmitt House in Waverly was featured by television programs My Ghost Story and Haunted Collector before it burned down during January 2014. Some human remains had been found at the site.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Detailed_map_of_Waverly%2C_Ohio.png/250px-Detailed_map_of_Waverly%2C_Ohio.png",
+        "state": "Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.126111, -82.983056]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Dead Women Crossing",
+        "description": "Dead Women Crossing in Weatherford allegedly has paranormal activities including a mysterious blue light that originates in the creek and a spectral woman crying for her baby around the area.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dead_Women_Crossing_map.svg/255px-Dead_Women_Crossing_map.svg.png",
+        "state": "Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.567778, -98.650833]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Bagdad Theater",
+        "description": "Allegedly haunted locales in Portland include the Bagdad Theater, a vaudeville theater built by Universal Studios during 1927; Pittock Mansion, a mansion overlooking the city; the Roseland Theater, a former church and music venue; and the city's Portland Underground (or so-called shanghai tunnels), made up of various passages beneath the streets of northwest Portland that were used to smuggle prostitutes and sailors onto ships in the port, where they were often sold into slavery or forced labor.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BagdadTheatre.jpg/250px-BagdadTheatre.jpg",
+        "state": "Oregon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.511803, -122.62544]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Gettysburg",
+        "description": "Gettysburg manufacturing associated with tourism included a late 19th-century foundry that created gun carriages, bridgeworks and cannons for the Gettysburg Battlefield, as well as a construction industry for hotels, stables, and other buildings for tourist services. Early tourist buildings in the borough included museums (like the 1881 Danner Museum), souvenir shops, buildings of the electric trolley (preceded by a horse trolley from the Gettysburg Railroad Station to the Springs Hotel), and stands for hackmen who drove visitors in jitneys (horse-drawn group taxis) on tours. Modern tourist services in the borough include ghost tours, bed and breakfast lodging, and historical interpretation (reenactors, etc.).",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/DowntownGettysburgPA.jpg/250px-DowntownGettysburgPA.jpg",
+        "state": "Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.828333, -77.232222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Cliveden Manor",
+        "description": "Cliveden, also known as the Benjamin Chew House, is a historic mansion at 6401 Germantown Avenue in Germantown, Philadelphia, Pennsylvania. It was the scene of some of the bloodiest fighting of the Battle of Germantown, fought in 1777 during the American Revolutionary War.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cliveden_Mansion%2C_Philadelphia%2C_HABS_PA-1184-88.jpg/250px-Cliveden_Mansion%2C_Philadelphia%2C_HABS_PA-1184-88.jpg",
+        "state": "Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.046111, -75.182222]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "First Bank of the United States",
+        "description": "The President, Directors and Company, of the Bank of the United States, commonly known as the First Bank of the United States, was a national bank, chartered for a term of twenty years, by the United States Congress on February 25, 1791. It followed the Bank of North America, the nation's first de facto central bank.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FirstBankofUS00_crop.jpg/325px-FirstBankofUS00_crop.jpg",
+        "state": "Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.948125, -75.146792]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Fort Mifflin",
+        "description": "Fort Mifflin, originally called Fort Island Battery and also known as Mud Island Fort, was commissioned in 1771 and sits on Mud Island (or Deep Water Island) on the Delaware River below Philadelphia, Pennsylvania[nb 1] near Philadelphia International Airport. During the American Revolutionary War, the British Army bombarded and captured the fort as part of their conquest of Philadelphia in autumn 1777. The United States Army began to rebuild the fort in 1794 and continued to garrison and build on the site through the 19th century. It housed prisoners during the American Civil War. The army decommissioned Fort Mifflin for active duty infantry and artillery in 1962 however while the older portion of the fort was returned it to the City of Philadelphia; a portion of the fort's grounds are still actively used by the United States Army Corps of Engineers making it the longest fort in military use in the United States. Historic preservationists have restored the fort, which is now a National Historic Landmark.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Fort_Mifflin_-_Eastman.jpg/250px-Fort_Mifflin_-_Eastman.jpg",
+        "state": "Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.8753, -75.213]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Library Hall",
+        "description": "The Library Company of Philadelphia (LCP) is a non-profit organization based in Philadelphia. Founded in 1731 by Benjamin Franklin as a library, the Library Company of Philadelphia has accumulated one of the most significant collections of historically valuable manuscripts and printed material in the United States.",
+        "state": "Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.94779, -75.16306]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Pennsylvania Hospital",
+        "description": "Pennsylvania Hospital is a private, non-profit, 534-bed teaching hospital located in Center City Philadelphia and affiliated with the University of Pennsylvania Health System. Founded on May 11, 1751, by Benjamin Franklin and Dr. Thomas Bond, Pennsylvania Hospital is the earliest established public hospital in the United States. It is also home to America's first surgical amphitheatre and its first medical library. The hospital's main building, dating to 1756, is a National Historic Landmark.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pennsylvania_Hospital_%28Highsmith%29.png/300px-Pennsylvania_Hospital_%28Highsmith%29.png",
+        "state": "Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.944778, -75.156267]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Powel House",
+        "description": "The Powel House is a historic house museum located at 244 South 3rd Street, between Willings Alley and Spruce Street, in the Society Hill neighborhood of Philadelphia, Pennsylvania. Built in 1765 in the Georgian style, and embellished by second owner Samuel Powel (1738–1793), it has been called \"the finest Georgian row house in the city.\" As with other houses of this type, the exterior facade was, but the interior was elaborately appointed.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Powel_House_244_S._3rd_Street.jpg/267px-Powel_House_244_S._3rd_Street.jpg",
+        "state": "Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.94614, -75.1468]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Pawleys Island",
+        "description": "Pawleys Island is said to be haunted by an anonymous man wearing gray.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Georgetown_County_South_Carolina_incorporated_and_unincorporated_areas_Pawleys_Island_highlighted.svg/260px-Georgetown_County_South_Carolina_incorporated_and_unincorporated_areas_Pawleys_Island_highlighted.svg.png",
+        "state": "South Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.425833, -79.125]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Folly Beach",
+        "description": "Folly Beach is said to be haunted from the time of the Civil War. Nearby Morris Island was the site of the famous Fort Wagner battles of 1863. The western side of Folly was thus used as a Union Army field hospital where many wounded soldiers—including members of the famous 54th Massachusetts regiment—returned from battle. Over the years, hurricanes and heavy storms uncovered some of these unmarked graves even as late as 1987. ",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Folly_Beach%2C_South_Carolina%2C_May_2007.jpg/250px-Folly_Beach%2C_South_Carolina%2C_May_2007.jpg",
+        "state": "South Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.666111, -79.939167]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "town of Adams",
+        "description": "The town of Adams was the site of the Bell Witch haunting, as well as the Bell Witch Cave.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bell-School-Adams-tn1.jpg/250px-Bell-School-Adams-tn1.jpg",
+        "state": "Tennessee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.581689, -87.065116]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Carnton Mansion",
+        "description": "The Carnton Mansion in Franklin was used as a hospital for Confederate Soldiers during the Civil War. Many of the deceased here were buried in mass graves and some of their ghosts are alleged to haunt the site.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Carnton_Front_Exterior.jpg/250px-Carnton_Front_Exterior.jpg",
+        "state": "Tennessee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.903917, -86.858292]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Hurricane Mills",
+        "description": "The vicinity of Hurricane Mills is said to be haunted by the founders of the town, which adjoins a farm owned by singer Loretta Lynn. During 2011, the Ghost Adventures crew conducted an investigation inside the house, and broadcast the episode Loretta Lynn Plantation House.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/USA_Tennessee_location_map.svg/250px-USA_Tennessee_location_map.svg.png",
+        "state": "Tennessee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.971111, -87.781944]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Orpheum Theatre",
+        "description": "The Orpheum Theatre in Memphis is said to be haunted by the ghost of a small girl who was killed in a car accident in front of the theater.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Orpheum_Theater_Memphis.jpg/220px-Orpheum_Theater_Memphis.jpg",
+        "state": "Tennessee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.14, -90.055278]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Devil's Backbone",
+        "description": "The Devil's Backbone in Texas Hill Country is allegedly haunted by Spanish monks, Native Americans, Confederate soldiers on their horses, and a wolf's spirit.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/HCSNApano2wiki.jpg/300px-HCSNApano2wiki.jpg",
+        "state": "Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.174167, -99.065278]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Marfa lights",
+        "description": "The Marfa lights have been attributed to haunting. In May 2004, students from the Society of Physics Students at the University of Texas at Dallas spent four days investigating and recording lights observed southwest of the view park using traffic volume monitoring equipment, video cameras, binoculars, and chase cars. The conclusion was that all of the lights observed over a four night period southwest of the view park could be reliably attributed to automobile headlights traveling along U.S. 67 between Marfa and Presidio, TX.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Marfa_lights.png/300px-Marfa_lights.png",
+        "state": "Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.311944, -104.024722]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Houston Zoo",
+        "description": "The commissary at the Houston Zoo may be haunted by the first zookeeper, Hans Nagel, who was shot by a park police officer during late 1941 after being caught spying on teenagers in a parked car.",
+        "state": "Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.716132, -95.390569]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "A house at Bremo Recess",
+        "description": "A house at Bremo Recess in Bremo Historic District in Bremo Bluff, is reportedly haunted by Anne Blaws Barraud Cocke, the wife of John Hartwell Cocke, brigadier general in the War of 1812 and builder of the plantation estate.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bremo_Plantation_%28Fluvanna_County%2C_Virginia%29.jpg/233px-Bremo_Plantation_%28Fluvanna_County%2C_Virginia%29.jpg",
+        "state": "Virginia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.72542, -78.32973]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Seattle Central College",
+        "description": "The former Burnley Professional School of Art in the former Booth Building at 905 E Pine Street (now a part of Seattle Central College) is said to be haunted by the spirit of a young man who died falling down the rear steps (although no documentary evidence of this accident exists). The ghost is said to manifest itself by \"doors opening by themselves, sounds of disembodied footsteps, phones dialed by unseen fingers, coffee percolating without human assistance.\"",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Broadway_High_School.png/220px-Broadway_High_School.png",
+        "state": "Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.616667, -122.321667]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Harvard Exit Theatre",
+        "description": "The Harvard Exit Theatre in Capitol Hill, Seattle, WA is said to be haunted by the ghost of a beautiful woman who is sometimes seen crying.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Harvard_Exit_Theatre_box_office_and_entrance%2C_2014-10-13.jpg/220px-Harvard_Exit_Theatre_box_office_and_entrance%2C_2014-10-13.jpg",
+        "state": "Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.625, -122.321667]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "First Methodist Protestant Church of Seattle",
+        "description": "The parsonage of First Methodist Protestant Church of Seattle in Capitol Hill, Seattle, WA is said to be haunted by the ghost of Susannah Bagley, wife of pioneer preacher and Territorial University (now the University of Washington) Daniel Bagley. One reported sighting \"in a diaphanous flowing gown, surrounded by a bluish light. When she asked, How do I get out? he pointed to the door, but she serenely floated out the upstairs window instead.\"",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seattle_1st_Methodist_-_Catalysis_01.jpg/250px-Seattle_1st_Methodist_-_Catalysis_01.jpg",
+        "state": "Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.619722, -122.310278]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Ye College Inn",
+        "description": "Ye College Inn in Seattle's University District is said to be haunted by \"Howard,\" a beer-drinking ghost who habitually wears a tan trenchcoat.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Seattle_-_College_Inn_05.jpg/250px-Seattle_-_College_Inn_05.jpg",
+        "state": "Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.657222, -122.311667]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "The Pfister Hotel",
+        "description": "The Pfister Hotel in downtown Milwaukee is said to be haunted.",
+        "gx_media_links":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_Pfister_Hotel_Tower_cropped.jpg/200px-The_Pfister_Hotel_Tower_cropped.jpg",
+        "state": "Wisconsin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.03922, -87.90571]
+      }
+    }
+  ]
+}

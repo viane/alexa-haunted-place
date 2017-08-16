@@ -1,0 +1,67 @@
+{
+  "name": "Alexa-Haunted-Place",
+  "version": "0.0.1",
+  "author": "Xiaoyu Zhou <xiaoyuz2011@gmail.com>",
+  "main": "./index.js",
+  "engines": {
+    "node": ">=5.0",
+    "npm": ">=3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viane/alexa-haunted-place.git",
+    "homepage": "https://github.com/viane/alexa-haunted-place/blob/master/README.md"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha tests/* --timeout 30000 --compilers js:babel-register --require ./tests/helper.js --recursive",
+    "start": "babel-node ./entry.js",
+    "build": "babel src --out-dir ./"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-2"
+    ],
+    "plugins": [
+      "transform-flow-strip-types",
+      "add-module-exports"
+    ]
+  },
+  "devDependencies": {
+    "app-module-path": "^1.0.6",
+    "babel-cli": "^6.23.0",
+    "babel-eslint": "^6.0.2",
+    "babel-plugin-add-module-exports": "^0.1.2",
+    "babel-plugin-transform-flow-strip-types": "^6.7.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "babel-register": "^6.7.2",
+    "chai": "^3.5.0",
+    "chai-fs": "^1.0.0",
+    "del": "^2.2.2",
+    "eslint": "^2.7.0",
+    "eslint-plugin-babel": "^3.2.0",
+    "eslint-plugin-flow-vars": "^0.3.0",
+    "eslint-plugin-flowtype": "^2.2.6",
+    "mocha": "^2.4.5",
+    "pretty-error": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/viane/alexa-haunted-place/issues"
+  },
+  "homepage": "https://github.com/viane/alexa-haunted-place/blob/master/README.md",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "readme": "README.md",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12",
+    "chai-as-promised": "^6.0.0",
+    "load-json-file": "^2.0.0",
+    "mongoose": "^4.11.7"
+  },
+  "keywords": [],
+  "description": ""
+}

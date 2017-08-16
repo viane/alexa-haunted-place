@@ -1,0 +1,4588 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "Name": "Point Cook RAAF Base",
+        "description": "The birthplace of the Royal Australian Air Force and the siteof various ghostly occurrences.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh3.googleusercontent.com\/proxy\/UGffQVXaf3r2QGfhOM5jjv9aRi4TgHLlEpzTttejQ3Trg30nM01Qi7R3jvJRKIviq1a3L8ZFHS5F92MnAKFoBns4RCuvj5NTC8PXPSQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.749851, -37.931606, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Geelong Gaol",
+        "description": "Still virtually as it stood when in closed in 1991.View more information and Panorama (http:\/\/ghostresearchinternational.com\/OGGPano.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/l2DiAhCn0rk5qUYkn_S0Fz4XB_XnjP8uCjTMMLNucd3-tLww_HtKJKG_hwFFTJsBMnuQfA_HoiBT-AXtmFntD-WP3rQnQRvMH0R1uSeuqkrqMxA1ig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.365447, -38.153812, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Monte Cristo Homestead",
+        "description": "Reputedly Australia's most haunted house.Visit Monte Cristo webpage (http:\/\/www.montecristo.com.au\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.575864, -34.868275, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Arthur",
+        "description": "Site of penal settlement.Wikipedia Listing (http:\/\/en.wikipedia.org\/wiki\/Port_Arthur,_Tasmania)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.852115, -43.140701, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Melbourne Gaol",
+        "description": "The site of 136 hangings including that of bushranger Ned Kelly.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.965179, -37.807757, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Will Will Rook Pioneer Cemetery",
+        "description": "Camp Road Broadmeadows.The pointer marks the spot of the 360 degree panorama on the website (http:\/\/ghostresearchinternational.com\/WWR.htm).",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/NkRX_YuDIj8uRpb37vinuFMEoSTK9FBG7l2sfhfprjq-9PklcZF1CKp7X-_Qk7DVb3SwiFzhmrp0syedON59_ZAsceoZsr8WVZUpYHzJTF9s7gk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.938051, -37.686808, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coach and Horses Inn",
+        "description": "The Coach and Horses Inn, otherwise known as the Clarkefield Hotel.The Ghost Research International (http:\/\/ghostresearchinternational.com) team Investigated the site in June 2007 (http:\/\/ghostresearchinternational.com\/CH090607.html).View Panorama (http:\/\/ghostresearchinternational.com\/CHPano.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh3.googleusercontent.com\/proxy\/C1WLMvUvo832jKsyOb2mTav-E3k38CQHyEI-msyc3byLBkJhPojvEWF0sqF1FPll7rQghvk6irkM9U4zvxKPJ-ccCVaCix3P2DAtlYfn1BvdBIs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.746751, -37.483057, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Car Park - Former Cobb & Co Building",
+        "description": "Part of Drew Sintons Haunted Ghost Tour",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.95784, -37.812241, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Princes Bridge",
+        "description": "Melbourne's bridge across the Yarra",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.968097, -37.819361, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Alkimos Shipwreck",
+        "description": "Off the WA coast",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.653638, -31.61053, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Helena Island",
+        "description": "QLD",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.232497, -27.390059, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Werribee Mansion",
+        "description": "Werribee Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.670392, -37.930531, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Darebin Arts & Entertainment Complex",
+        "description": "Preston",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.998052, -37.745472, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "State Library of Victoria",
+        "description": "Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.964986, -37.809767, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North West Hospital Greenvale",
+        "description": "This marker indicates the position of the hospital chapel and morgue before this large hospital was abandoned and demolished.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.858609, -37.64426, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Melbourne General Cemetery",
+        "description": "Carlton",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.962753, -37.791676, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Treasury Building",
+        "description": "Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh6.googleusercontent.com\/proxy\/yDoNyrr8jlDPai1lZtEzhtZ7nxPFu-bYjy-9c_uefgLYYxvEF93182tG3peB2USAU81QAisn-42n9a3Qvnp5Vpwnehn8kjt_Zw70NmOv0dPS5KpEeCw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.974179, -37.813302, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bottenfield Middle School",
+        "description": "Adamsville Alabama",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.92958, 33.592677, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pommegranite Theatre",
+        "description": "Chersterfield UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.423845, 53.236916, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Powderham Castle",
+        "description": "Devon",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.46125, 50.642848, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quarantine Station",
+        "description": "Manly NSW",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.289442, -33.815139, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Red Lion Pub",
+        "description": "High St Avebury Marlborough Wiltshire UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.857355, 51.427886, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chislehurst Caves",
+        "description": "Old Hill Chislehurst Kent UKchislehurstcaves.co.uk (http:\/\/chislehurstcaves.co.uk)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.058536, 51.408842, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hampton Court Palace",
+        "description": "East Molesey London UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.33755, 51.403516, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tower of London",
+        "description": "London UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.076056, 51.507953, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chillingham Castle",
+        "description": "Chillingham Alnwick Northumberland UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.904111, 55.525885, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Warwick Castle",
+        "description": "Warwick UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.583747, 52.281968, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dalkeith House",
+        "description": "Dalkeith Midlothian Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.061151, 55.901302, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Amityville Horror House",
+        "description": "Ocean Avenue",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.415064, 40.666386, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Haunted Bookshop",
+        "description": "Drew Sinton runs Melbourne's Haunted Ghost Tours from his shop in McKillop Street Melbourne.Visit Drew's website (http:\/\/www.haunted.com.au\/ghosttour.html)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/yCf4nJdB628s-gsNgkI3uRbzX92bNrqujRt7j7vhXKhj7JYyvFTBuF4wWuzzrvanAo3C-FD5QlkM2VCFDHtJBo3pKHpM00DDnKhz_OWZAo9gxVY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.961557, -37.815525, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Freemantle Prison",
+        "description": "Freemantle WA",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.752565, -32.055067, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Round House",
+        "description": "Fremantle WA",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.741309, -32.056136, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Picton NSW",
+        "description": "Reputed to be Australia's most haunted town. The Picton tunnel in Crackenthorpe Lane off Rememberance Driveway to  the South is of particular fame.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.606594, -34.185074, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Classic Cinema",
+        "description": "Gordon Street Elsternwick",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.000487, -37.88405, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flagstaff Gardens",
+        "description": "Melbourne.Site of first cemetery for Melbourne's white settlers.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.953694, -37.810051, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flinders Street Railway Station",
+        "description": "Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/xFWKqAem1Rbt5Iw1-HOahrPQ0CShCbDzZs2RmdhsIQs5JipMx-IgANHtjGgur9w3ArdvryoOmHLowRm5oR-WQdBkNqVTStEQM39JGOROhlsM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.964943, -37.818322, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Francis Hotel",
+        "description": "Lonsdale Street Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.961074, -37.812657, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Greater Union Theatres",
+        "description": "Russell Street Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.96793, -37.813313, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Her Majesty's Theatre",
+        "description": "Exhibition Street Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.969739, -37.810881, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Cosmopolitan Hotel",
+        "description": "Trentham Victoria.Badly damaged by fire on 26\/6\/2005 - Currently closed.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.32102, -37.388818, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Red Hill Hotel",
+        "description": "Main Road Chewton Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.258341, -37.08097, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Scofields Hotel",
+        "description": "Hargraves Street Castlemaine",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.219191, -37.066854, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Royal Hotel",
+        "description": "Vincent Street Daylesford",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.142813, -37.341693, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Macedonia",
+        "description": "Main Road Lancefield",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.737062, -37.277792, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Melbourne Town Hall",
+        "description": "Corner of Swanston and Collins Street Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.967109, -37.815809, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mitre Tavern",
+        "description": "Bank Place Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh4.googleusercontent.com\/proxy\/SX7WPenbHH5TU_mAHOTerCbLXJG0Bc2gi_XSEcbf8_S8OHBWBTzjyge6gUq46p2s_P-Rpg0Egfn2eT8NlooID3hhOxmw8VDEwHbsynnA_w"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.960253, -37.816788, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Split Lighthouse",
+        "description": "Aireys Inlet Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.104276, -38.467845, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "J Ward Asylum - Ararat Gaol",
+        "description": "Situated in Ararat Victoria, the team investigated the site in September 2007 - details of which can be found on the website (http:\/\/ghostresearchinternational.com\/JW010907.htm).",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh6.googleusercontent.com\/proxy\/uywQJXByH8CdzURKPzDA4dLdSmwoVQqnPAVLlN34K1NFwr8GQPL0naYFANKZLFVDno19YZjF5FyhyupBBgyVm3IUk1zY5w8FWbQ52ifmMg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142.930218, -37.278851, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Como House",
+        "description": "South Yarra Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.003599, -37.838034, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Craig's Royal Hotel",
+        "description": "Lydiard Street Ballarat",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh4.googleusercontent.com\/proxy\/0imirf8pAk0naChV608b-r4Giqo2q-pBJW2Fv-blblJBMJuPlKONajiT47GQKCsjTLd28O6EjNsri8vjYOwRUm_hlgf5PvsTcVCwWwsiRMSPBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.857443, -37.562845, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "National Gallery of Victoria",
+        "description": "St Kilda Road Southbank",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.969095, -37.822564, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Customs House Melbourne",
+        "description": "Now the Immigration Museum Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/dZOiuvs49kcUYT1UD5h5YuOhdj8m2Wpb8S31QwCtCtv5TUN3-xHMu69Q_5UUxEzuVxmb0fSGYQpMwcbCq0cd4QJE8UAEG_cb6EKLnKuJ-BRe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.960243, -37.819327, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Her Majesty's Theatre",
+        "description": "Lydiard Street South, Ballarat",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh3.googleusercontent.com\/proxy\/82KDxeQH-R8XHg2BWcE0hVbTOl-7oRu6DbiQo5S6FnzLfTuM-dVdciaSY8-niYtB2LPCpZTH9LTCvBNA5Y4YMtmB5bYN6fbogszMvjhxQSaw4UOrCT6pkLOl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.857775, -37.562716, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spray Farm",
+        "description": "Bellarine Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.614645, -38.134362, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Golden Dragon Museum",
+        "description": "Bendigo",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.282288, -36.754865, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Polly McQuinn Weir",
+        "description": "Eurora Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.696091, -36.875261, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elephant Bridge Hotel",
+        "description": "Hamilton Hwy, Darlington, Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh3.googleusercontent.com\/proxy\/1X9KaWsfOZAjUP58qOwLfDN14vOyfgGlcK8EpMk8ui6219daGL0LBLm_-M0epktp1rGZ3oFdVU-xPNP02bsDfKOZeJjAGq2fT3vNMgFu74DeYawgoTZrLI1T"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.04491, -37.998936, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burswood Homestead",
+        "description": "Cape Nelson Road Portland VictoriaInvestigated October 4th 2008 (http:\/\/ghostresearchinternational.com\/Burswood041008.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/tIoNxd4eqo1pnBmh1gA-hn4Qwwv1xPOIGH1wKURUeyE5VPOLmeZnrlHmmP2dgBJzTJjyFXGxLH_Nyd9s445aXZ85IFbEraC17r-QU-zvbeKlI4hrHQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.606345, -38.358383, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Peppers Delgany",
+        "description": "Point Nepean Raod Portsea Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.709661, -38.31974, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barwon Hotel",
+        "description": "Main Street Winchelsea Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.990849, -38.242916, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barwon Park Mansion",
+        "description": "Inverleigh Road Wichelsea Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.005227, -38.225438, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Queen Victoria Market",
+        "description": "Actually the site of the old Melbourne cemetery where the remains of thousands still lie buried.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.956768, -37.807037, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "All Saints Anglican Church",
+        "description": "High Street Preston",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.00437, -37.738242, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fortuna Villa",
+        "description": "Bendigo Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.256797, -36.762369, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Princess Theatre",
+        "description": "Spring Street Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/B0-LwIB1cqH3Z1ayVVJrKRuqdUGjWs4PtnrkEbePChEL4D6vwnxxz2SKc7C37CgstK6JpQfZ2MA2_kQixUY-vAW0Uetp6D7mdFkCutWTLg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.972307, -37.810763, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tasma Terrace National Trust",
+        "description": "Parliament Place Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh6.googleusercontent.com\/proxy\/eeAR0yHDWv1q9gIgZNRZAFaFADsuFueyJd1k-Lk9yGLt_2461tVgbKUNrXWdljOLSnKMshDikylw7Rkbhpk3PqWp_G5k_6QIlQs2yzyVZg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.975381, -37.811636, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pentridge",
+        "description": "Coburg, Melbourne, Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh4.googleusercontent.com\/proxy\/atAwoA5TX38DPW0kfpqhcqbzw6Q0NpgARrkcyIJTl8vuEHsZwl6LUadpdMlajeRCQ5123DWdJcZjxYMlmfXkvR7hnT6kvUUTSLPD8bDS2YI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.968333, -37.736733, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Frankston \"Haunted House\"",
+        "description": "Situated opposite the cemetery on Cranbourne Road,this deserted house is reputed to be haunted.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.135172, -38.14634, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glen Davis",
+        "description": "On old oil shale mining town in New South Wales.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.148108, -33.134209, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Van Gilder Hotel",
+        "description": "Adams Street Seward AK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.441872, 60.102831, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "White House B & B",
+        "description": "8th Avenue, Skagway, AK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-135.314484, 59.457181, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mile Bridge",
+        "description": "Frankston VIC",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.124534, -38.129586, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mary Kings Close",
+        "description": "Edinburgh Midlothian Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.190284, 55.950233, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Castlegarth ",
+        "description": "Newcastle Upon Tyne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.609851, 54.968808, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Hellfire Caves",
+        "description": "West Wycombe Caves, Buckinghamshire.hellfirecaves.co.uk (http:\/\/www.hellfirecaves.co.uk)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.803719, 51.641033, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brookdale Lodge",
+        "description": "11570 Highway 9, Brookdale, CAbrookdalelodge.com (http:\/\/www.brookdalelodge.com)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.111492, 37.107742, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Prague Restaurant",
+        "description": "Formerly the Full Circle Cafe.Rose Street Georgetown Colorado",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.929687, 43.834527, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Union Cemetery",
+        "description": "Connecticut.Home of the \"White Lady\"",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.415633, 41.127066, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stewart Indian School",
+        "description": "Carson City, NV",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.756534, 39.117958, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pacheco Pass Highway",
+        "description": "California.Known as \"Blood Alley\"",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.25782, 37.049149, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Excalibur",
+        "description": "Nightclub 632 N Dearborn St, Chicago Illonois.excaliburchicago.com (http:\/\/www.excaliburchicago.com)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.62971, 41.893469, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bobby Mackey's Music World",
+        "description": "Licking Pike, Wilder, Kentucky.Well known as \"Hells Gate\"",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.494047, 39.074731, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waverly Hills Sanatorium",
+        "description": "Originally a TB hospital completed in 1926 this huge building consists of 5 floors. In 1961 the hospital was closed and reopened in 1962 as the Woodhaven Geriatric Home, closing in 1980.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.841793, 38.130092, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hindu Kush Mountains",
+        "description": "Hindu Kush Mountains Afghanistan.Talk of the Ail, female entities.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.400391, 36.491973, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kabul University",
+        "description": "Afghanistan",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [69.131438, 34.516715, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Armidale High School",
+        "description": "New South Wales",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.668985, -30.514117, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Asquith Girls High School",
+        "description": "New South Wales",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.113038, -33.690871, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MacHattie Park",
+        "description": "Bathurst New South Wales",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.577613, -33.418735, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Theatre Royal",
+        "description": "Tasmania",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.330941, -42.879706, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rumah Sakit Cipto Mangunkusumo",
+        "description": "The Indonesian National Hospital in Jakarta",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.847534, -6.200629, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lawang Sewu",
+        "description": "Indonesia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.418091, -6.983681, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QV Shopping Complex",
+        "description": "Formerly the site of the Queen Victoria Women's Hospital.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.96556, -37.810704, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cape Town Castle",
+        "description": "Cape Town South Africa",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.427602, -33.926038, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hougang School",
+        "description": "Hougang Singapore",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.881547, 1.377911, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parliament House",
+        "description": "Suva Fiji",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [178.444061, -18.148462, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Everest",
+        "description": "Nepal. Apparently the ghost of Andrew Irvine, a climber who died in 1924, is occasionally seen by other climbers.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.934128, 27.983487, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Government House",
+        "description": "Parramatta NSW",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.997381, -33.812154, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rookwood Cemetery",
+        "description": "Lidcombe NSW Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.060145, -33.870745, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Block Arcade",
+        "description": "Melbourne Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.964406, -37.815497, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Government House",
+        "description": "Brisbane",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.02909, -27.477426, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parliament House",
+        "description": "Brisbane",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.027041, -27.475741, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brisbane City Hall",
+        "description": "Brisbane QLD Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.023935, -27.468983, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lutwyche Cemetery",
+        "description": "Kedron QLD Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.031011, -27.401109, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Toowong Cemetery",
+        "description": "Queensland Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.983814, -27.477498, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bridgeman Downs Cemetery",
+        "description": "Queensland Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.991357, -27.35231, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sacred Heart College",
+        "description": "Newton Victoria",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.340224, -38.1495, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Calabria",
+        "description": "The mountains around Calabria, Italy are reputedly haunted.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.654488, 38.109168, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belvedere Fort",
+        "description": "Florence, Italy",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.253519, 43.763284, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Coliseum",
+        "description": "Rome, Italy",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.492356, 41.890074, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lanarch Castle",
+        "description": "Camp Rd Pukehiki, Otago, New Zealandwebsite (http:\/\/www.larnachcastle.co.nz\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.627772, -45.86456, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Granity Hotel",
+        "description": "Granity New Zealand",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [171.854496, -41.629494, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spirits Bay",
+        "description": "North Island, New Zealand",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.840004, -34.445141, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Intercontinental Hotel",
+        "description": "Wellington, New Zealand",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.776849, -41.284813, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seoul University",
+        "description": "Seoul, Korea",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.017059, 37.487935, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kinnitty Castle",
+        "description": "Southern IrelandWebsite (http:\/\/www.kinnittycastle.com\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.707767, 53.102218, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Arreton Manor",
+        "description": "Isle of Wight. A building with origins dating back to 872 AD.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.246734, 50.67786, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alton Towers",
+        "description": "Stoke-on-trent Staffordshire UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.890045, 52.989287, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flanagans - The Border Inn",
+        "description": "Bacchus Marsh Victoria.An 1851 hotel which serviced travellers to the Ballarat goldfields.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh4.googleusercontent.com\/proxy\/BNDG9BbtO0aKl5DiHtNTzMcKq1-NkeSqQha-R-bhvoIm91Qdwb2ma4GARN3cnSjAUX42Uizw292fdwjaVb5DJFIqW71jRktN79-pw-QyzorxBZaxipo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.437363, -37.676051, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sunbury University",
+        "description": "A campus of Victoria University. The complex on Jacksons hill has previously been used as an Industrial School, Lunatic Asylum, and a training centre for the intellectually disabled known as \"Caloola\".",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh4.googleusercontent.com\/proxy\/9LQ9TLT6-5gbDd0Ks8lSK5oKCORky5Y__ZGPxaSosqZFxxltkMSbgdZvR54mhaM24Hj9FL3yF-hwUNdHqpyo3dVVSfQeIQxwTLCHd66z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.729778, -37.593785, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ballina Manor",
+        "description": "Ballina Manor",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.567367, -28.870298, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alexandra Hills State School",
+        "description": "Alexandra Hills Brisbane",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.220471, -27.517949, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seppeltsfield Winery",
+        "description": "Seppeltsfield SA",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.916368, -34.489155, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Port Fairy Cemetery",
+        "description": "Located in the Western District of Victoria, the cemetery has served the area of Port Fairy (previously \"Belfast\") since 1849. Legend tells of the ghost of Lloyd Rutledge.Team's 2007 Investigation (http:\/\/ghostresearchinternational.com\/PFC171207.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh4.googleusercontent.com\/proxy\/6m9QPtuMbtRtxTQtsgaUAlFxzF8u0v8hJxCGjd8V-KlKEiAa5OuH8uDyTu1LXLo3xt5AVAnRLhHMAiEklXiqguBQ1AX9J4L_8J7MZJn0_M8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142.222942, -38.384009, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Haunted Cafe",
+        "description": "1921 First Avenue Seattle has been used by various businesses through the years, the owners of many have told of ghostly occurrences there.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.341663, 47.610485, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Neptune Theatre",
+        "description": "Seattle.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.314181, 47.661316, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Harvard Exit Theatre",
+        "description": "Seattle.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.321933, 47.625123, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Georgetown Castle",
+        "description": "Seattle",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.320581, 47.545166, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pike Place Market",
+        "description": "Seattle.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.34169, 47.6091, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stanley Hotel",
+        "description": "Colarado",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.517416, 40.378377, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ackergill Tower",
+        "description": "Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.105869, 58.467848, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ardoe House Hotel",
+        "description": "Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.17658, 57.106186, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Auchen Castle Hotel",
+        "description": "Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.478546, 55.326019, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Baskerville Hall",
+        "description": "South Wales",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.154106, 52.079717, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bodelwyddan Castle",
+        "description": "Wales",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.500862, 53.261722, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Borthwick Castle",
+        "description": "Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.001757, 55.825684, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Comlongon Castle",
+        "description": "Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.445415, 55.009963, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elvey Farm",
+        "description": "Pluckley UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.737565, 51.17633, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ettington Park",
+        "description": "Stratford-upon-Avon UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.640117, 52.124662, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Georgian House Hotel",
+        "description": "London UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.143852, 51.490549, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lion and Swan Hotel",
+        "description": "Congleton UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.214797, 53.16352, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Church House Inn",
+        "description": "Newton Abbot UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.664198, 50.488586, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pengethley Manor",
+        "description": "Nr Ross on Wye UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.664528, 51.926696, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Red Lion",
+        "description": "Skipton UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.01612, 53.961925, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whitworth Hall Country Park Hotel",
+        "description": "Spennymoor UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.63559, 54.706375, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Abergele Bull hotel",
+        "description": "Abergele Wales",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.582916, 53.283895, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Arden Thistle Hotel",
+        "description": "Stratford upon Avon UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.704769, 52.190667, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barcaldine Castle",
+        "description": "Oban Scotland",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.402699, 56.4897, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cranbourne \"Haunted House\"",
+        "description": "Locals referred to this building as \"The Haunted House\". It caught fire on December 2nd 2007 and was destroyed.Cranbourne Melbourne Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.288846, -38.106551, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "National Film and Sound Archives",
+        "description": "Previously an anatomy school with morgue.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.121037, -35.282928, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Potters Shed Botanic Park Adelaide",
+        "description": "Apparently this was previously a morgue serving the Adelaide Asylum which once stood in the area of the Park.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.609776, -34.917819, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Adelaide Gaol",
+        "description": "Adelaide        Gaol        18 Gaol Road        Thebarton, South Australia, 5031Adelaide Gaol Website (http:\/\/www.adelaidegaol.org.au\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.584858, -34.917696, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ascot House",
+        "description": "15 Newmarket St, Toowoomba, QLD",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.928896, -27.558237, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boggo Road Gaol",
+        "description": "150 Annerley RoadDutton Park, QLD 4102Now a museum.Museum Website (http:\/\/www.boggoroadgaol.com.au)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.028752, -27.494749, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dutton Park Cemetery",
+        "description": "Dutton Park, QLD",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.02519, -27.499597, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heritage Tea Rooms",
+        "description": "Formerly the Eureka HotelLot 6 Thornton's Gap RoadHervey's RangeHeritage tea rooms website (http:\/\/www.heritagetearooms.com.au\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [146.450758, -19.357551, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Tower Mill",
+        "description": "Wickham TerracceSpring Hill Queensland Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153.022985, -27.465308, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Samford Valley Railway Tunnel",
+        "description": "Queensland Australia.On Labour Day in 1947, a train crash resulted in the death of sixteen people including children. Some believe the site is haunted by their ghosts.Courier mail article (http:\/\/www.news.com.au\/couriermail\/story\/0,23739,21893880-5003425,00.html)Now home to a bat colony.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.874058, -27.345925, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Berrima Courthouse",
+        "description": "Wilshire Street New South Wales Australia Berrima Courthouse Website (http:\/\/www.berrimacourthouse.org.au)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.334983, -34.487148, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fort Denison",
+        "description": "New South Wales Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.225521, -33.854916, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Albany Convict Gaol",
+        "description": "Stirling Terrace (cnr Parade Street), Albany, Western Australia.Website (http:\/\/www.historicalbany.com.au\/convictgaol.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.879905, -35.028125, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fremantle Arts Centre",
+        "description": "1 Finnerty StFremantle WA 6160, Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.753804, -32.047552, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Humpty Doo House",
+        "description": "McMinns DriveMcMinns Lagoon NT 0822, Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.079077, -12.542159, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fannie Bay Gaol",
+        "description": "E Point RdFannie Bay NT 0820, Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.836439, -12.42557, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Malanda Lodge Motel",
+        "description": "Cnr Merragallan &Millaa Millaa RoadsMalanda QLD 4885Website (http:\/\/www.malandalodgemotel.com.au\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.595874, -17.363961, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sugarloaf Point Lighthouse",
+        "description": "The Sugarloaf Lighthouse and cottagesWebsite (http:\/\/www.lighthouse.net.au\/lIGhtS\/NSW\/Sugarloaf%20Point\/Sugarloaf%20Point.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.535553, -32.433874, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maitland Jail",
+        "description": "6 John Street East Maitland NSWWebsite (http:\/\/www.maitlandgaol.com.au\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.589785, -32.745414, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Racecourse Hotel Riccarton",
+        "description": "118 Racecourse RdSockburn, Canterbury 8042, New ZealandDetails (http:\/\/www.nzghosts.co.nz\/Canterbury.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.547461, -43.533173, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whistlestop Cafe",
+        "description": "499 Hutt RdAlicetown, Wellington 5010, New ZealandDetails (http:\/\/www.nzghosts.co.nz\/Auckland.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.890569, -41.212222, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Victoria Barracks VIC",
+        "description": "St Kilda Road Melbourne",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.970919, -37.827438, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Royal Arcade",
+        "description": "Melbourne Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.964085, -37.814522, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Raveloe House",
+        "description": "Domain Road South Yarra Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.983686, -37.834302, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Queens Park",
+        "description": "Moonee Ponds Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.923272, -37.761894, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pugg Mahones",
+        "description": "112 Hardware Street Melbourne Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.960646, -37.812145, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Richmond Bridge",
+        "description": "Richmond Tasmania.Australia's oldest bridge.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.440026, -42.733853, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bacchus House - The Manor",
+        "description": "Manor Street Bacchus Marsh Victoria Australia.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.444852, -37.674293, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St. Augustine Lighthouse",
+        "description": "81 Lighthouse Ave, St Augustine, Florida",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.288378, 29.885444, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Berkeley Plantation",
+        "description": "12602 Harrison Landing Rd, Charles, VirginiaWebsite (http:\/\/www.berkeleyplantation.com\/index.html)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.180543, 37.317658, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Old Stone House Museum",
+        "description": "3051 M Street ,Washington, DCWebsite (http:\/\/www.oldstonehousemuseum.org\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.060356, 38.90536, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hell House - St Mary's College",
+        "description": "Ilchester Road, Ellicott, Maryland USWebsite (http:\/\/hellhouse.ellicottcity.net\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.766061, 39.250563, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hampton Lillibridge House",
+        "description": "Hampton Ln, Towson, Maryland USWebsite (http:\/\/www.hauntingstour.com\/hamplilb.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.597742, 39.41472, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Coburg Lake",
+        "description": "Coburg Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.970737, -37.734408, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cape Otway Lightstation",
+        "description": "Cape Otway Victoria Australia",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143.51243, -38.856152, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Queens Park",
+        "description": "Toronto",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.391885, 43.662982, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pengersick Castle",
+        "description": "Pengersick CastlePengersick Ln, Praa Sands, Penzance, TR20, UKWebsite (http:\/\/www.pengersickcastle.com\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.383365, 50.1064, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Prideaux Place",
+        "description": "Padstow, Cornwall, PL28 8RP, United KingdomWebsite (http:\/\/www.prideauxplace.co.uk\/prideauxplace_005.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.945929, 50.542488, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bodmin Jail",
+        "description": "Berrycoombe RdBodmin, Cornwall, PL31 2NR, United KingdomWebsite (http:\/\/www.bodminjail.org\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.726701, 50.474096, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jamaica Inn",
+        "description": "Bolventor, Launceston, PL15, UKWebsite (http:\/\/www.jamaicainn.co.uk\/ghosts.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.565517, 50.561943, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Wellington Hotel",
+        "description": "Old Rd, Boscastle, Cornwall, PL35 0AQ, United KingdomWebsite (http:\/\/www.boscastle-wellington.com\/whhistory.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.69294, 50.689221, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chough Hotel",
+        "description": "Marine Pde, Bude, UK",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.556177, 50.79716, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chambercombe Manor",
+        "description": "lfracombe, EX34, UKWebsite (http:\/\/www.chambercombemanor.org.uk\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.101733, 51.201549, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Leap Castle",
+        "description": "IrelandWebsite (http:\/\/www.irishmidlandsancestry.com\/content\/family_history\/families\/ocarroll_haunted_castle.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.808189, 53.027277, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Willow Court",
+        "description": "Reputedly Tasmania's oldest asylum",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.063525, -42.785339, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Engsö Slott",
+        "description": "The paranormal investigators Andrew Nichols and William G. Roll madesome magnetic fields measurements in the castle 1999. An anomaly wasrecorded on the third floor where three previous witnesses haddescribed apparitional experiences. There is also a small exhibition.It is not possible to stay overnight in the castle.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.825691, 59.58003, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "About this map",
+        "description": "This Map is brought to you by members and Affiliates (http:\/\/ghostresearchinternational.com\/affiliates.html) ofGhost Research International (http:\/\/ghostresearchinternational.com)Including: Spökportalen (http:\/\/www.spokportalen.se\/)NEPVRG (http:\/\/www.nepvrg.com\/)Mid-atlantic Paranormal (http:\/\/www.midatlanticparanormal.com\/) Enfield Paranormal Society (http:\/\/www.freewebs.com\/enfieldparanormal\/index.htm)South Eastern CT Paranormal Society (http:\/\/www.southeasternctparanormalsociety.com\/)Las Vegas Paranormal Investigations (http:\/\/www.freewebs.com\/lasvegasghosts\/)CAPER (http:\/\/www.caper.pararesearch.org\/index.html)Perth Ghost Hunters (http:\/\/www.perthghosthunters.com)Don't forget to scroll through the pages to see more sites!",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.78125, -62.915233, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Alms House",
+        "description": "Site of a former poor house that burnt killing 16 people.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.086792, 41.529142, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blackwood Hotel",
+        "description": "Martin Street Blackwood Vic 3458May 2008 investigation (http:\/\/ghostresearchinternational.com\/BW200508.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/sXXuNasbR96eVPsvI1G6oyYkdkkC55GJouM9pQ2p-ld1qozCN3pPmVFxNJJ3D5Qdhz48uS5cOH6YBLR1P_esMI8nk53riRb7e7qL1l3Xs24vldm5XQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.307356, -37.470362, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mansfield Reformatory",
+        "description": "100 Reformatory RoadMansfield, Ohio 44905This place has a long history or violence, death, and hauntings.Submitted by CAPER (http:\/\/www.caper.pararesearch.org\/index.html)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.503333, 40.782402, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Walhalla",
+        "description": "Town in Victoria Australia that has many buildings reputed to be haunted.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [146.45123, -37.93929, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Aradale",
+        "description": "Consisting of 63 buildings the former Aradale mental hospital in Ararat Victoria is reputed to be haunted.Wiki listing (http:\/\/en.wikipedia.org\/wiki\/Aradale_Mental_Hospital)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh3.googleusercontent.com\/proxy\/I-RG1pFOjAMeC4nCiXUfIycftvOJjf8G9bUQcR9UKdJmWayQ3BbamVX3-BcJPSh_4qLfcIkcrriM-kwn31YsYiuYrXQyWvUL-o0Pdf8LghQL3S0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142.957964, -37.279312, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Provost Dungeon",
+        "description": "Charleston, South Carolina.Website (http:\/\/www.oldexchange.com\/html\/Dungeon.html)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.926884, 32.776852, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Point Lookout Lighthouse",
+        "description": "Scotland Maryland USAWebsite (http:\/\/www.ptlookoutlighthouse.com\/)Submitted by Rie from Eastern Paranormal Research (http:\/\/www.easternparanormalresearch.com\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9375, 38.822591, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Point Hicks Lighthouse",
+        "description": "Victoria Australia Website (http:\/\/www.pointhicks.com.au\/)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149.275328, -37.801858, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "são carlos angra do heroismo,terceira, azores, portugal",
+        "description": "Azores, Portugal.Reported by Antonio",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.221375, 38.66085, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bollstabruk",
+        "description": "Kramfors, Sverige",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.689319, 62.990189, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bollsta mansion",
+        "description": "One of the most well known haunted places in the Northern part of Sweden. Footsteps and crying children.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.689018, 62.990481, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Drives Seppelts Great Western",
+        "description": "The Drives, a series of tunnels exceeding a total of 3km in length, arethe setting of a number of reports of paranormal activity.Details of GRI Investigation (http:\/\/ghostresearchinternational.com\/GW140608.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "https:\/\/lh5.googleusercontent.com\/proxy\/ewCU-m7pEMckxGbw1YVEEt8ug7JxY9hrfzoKUEUJSiT5Goowt5CBrdS864GsRVydseBy3_XxoilyDEMkqe1TF1br03SQxdDIUb2g5zdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142.855225, -37.158367, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Legend of Ghost Hollow",
+        "description": "Legend of Ghost Hollow,   1853 on her wedding night, a young new brides dress caught fire, she ran down into the Hollow where she Burn to death! People have seen and Heard her ever since! goto: Web:signsoftheozarks.org (http:\/\/signsoftheozarks.org)    -see  (Casper Files) Legend of Ghost Hollow.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.13631, 36.062456, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The House Of Miracles",
+        "description": "After a 17-year-old boy died, oil began seeping through his bedroom walls and ash appeared on the floor. Some now believe he was a messenger of God.According to a Today Tonight story (http:\/\/au.todaytonight.yahoo.com\/article\/38725\/lifestyle\/house-miracles) the house is at 6 Bowden Street, Guildford, NSW and is open to visits at set times.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.972657, -33.843513, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Larundel Psychiatric Hospital",
+        "description": "Former site of Larundel Psychiatric Hospital.Reports of banging noises, music boxes and babies crying around the area. Eerie coldness and smell. Site is now largely redeveloped with only a few remnants of the original buildings.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.049894, -37.711122, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bundoora Homestead",
+        "description": "Bundoora Homestead to the north of Bundoora Park was built in 1899 and is apparently haunted by \"George\" the ghost.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.050441, -37.704832, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bundoora Park",
+        "description": "In 1917 Wallace, infamous stallion and son of Melbourne Cup winner Carbide, died and was buried in Bundoora Park very close to his old stables. Legend has it that if you walk around his plot very late at night and hear the clip clop of hooves it's his old stable mate coming to protect him.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.04421, -37.70995, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Garth",
+        "description": "Ruin of Garth, Fingal Valley near Avoca TasmaniaLink (http:\/\/www.orford.tased.edu.au\/ghosts8.htm)",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.851976, -41.687127, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bailey's Tavern",
+        "description": "150 George Street Launceston Tasmania",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.14221, -41.438512, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Haunted Hill Top Manor",
+        "description": "Haunted Hill Top Manor is an 1893 house which was moved to the site of a fatal apartment fire.It is rumored there are spirits who came with the house and those from the fire.It is open for monthly paranormal investigations.http:\/\/www.myspace.com\/desmoinesghosttours",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.6437, 41.591453, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glengallan Homestead",
+        "description": "Kat reported recently to us: I have had shadows and tappings at a place outside of Brisbane called Glengallan homestead near Warwick. Absolutely chilling!!!http:\/\/www.glengallan.org.au\/index.html",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152.052294, -28.101437, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lemon Tree Passage Road",
+        "description": "Legend has it that the ghost of a deceased motorcyclist comes up behind motorists, the headlights of his ghost bike disappearing when he nears the spot of his fatal collision.See the forum for more (http:\/\/griteam.proboards.com\/index.cgi?action=display&board=mediadiscussion&thread=1017&page=1).",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.961928, -32.760266, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jenolan Caves House",
+        "description": "Jenolan Caves House, Jenolan Caves Road, Jenolan Caves, NSW, 2790jenolancaves.org.au (http:\/\/jenolancaves.org.au)‎",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.020628, -33.820502, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Devil's Pool Buckley's Falls Fyansford",
+        "description": "Devil's Pool Buckley's Falls FyansfordReported by G CarterAlso tales of a bunyip.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.307244, -38.151044, 0.0]
+      }
+    }
+  ]
+}
